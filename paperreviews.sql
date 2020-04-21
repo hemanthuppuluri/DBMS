@@ -1,3 +1,5 @@
+create DATABASE paperreviews;
+
 create table AUTHOR ( LastName varchar(255), FirstName varchar(255), EMAILAddr varchar(255) NOT NULL,PRIMARY KEY(EMAILAddr)); // EMAILAddr represents unique primary key of author table
 
 insert into author values ('Uppuluri','Hemanth','hemanthuppuluri95@gmail.com'); 
