@@ -1,5 +1,6 @@
 Created Database form the Paper Reviews ER Diagram
 
+Change the Directory to which ever location MySQLServer\bin folder is 
 Open CMD type mysql -u root -p
 Login with your password 
 Creating a database paperreviews
